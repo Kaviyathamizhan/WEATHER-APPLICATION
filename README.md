@@ -99,4 +99,4 @@ This React-based Weather App serves as an excellent demonstration of front-end d
 
 OUTPUT :
 
-![Image](https://github.com/user-attachments/assets/bbe37652-b65d-4283-927e-cc51840a27c5)
+![Image](https://github.com/user-attachments/assets/9da3e58e-12b4-49e0-8334-10595e3c8bc8)
