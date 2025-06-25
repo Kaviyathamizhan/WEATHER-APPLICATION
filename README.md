@@ -1,17 +1,5 @@
 # WEATHER APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: KAVIYATHAMIZHAN T K
-
-INTERN ID: CT08WC44
-
-DOMAIN: MERN STACK WEB DEVELOPMENT
-
-DURATION: 8 WEEEKS
-
-MENTOR: NEELA SANTOSH
-
 DESCRIPTION : 
 
 The React Weather Application is a dynamic and responsive web application designed to fetch and display real-time weather information using the OpenWeatherMap API. Built entirely with React.js, this application demonstrates core principles of modern web development including component-based architecture, state management with hooks, asynchronous data fetching, conditional rendering, and clean UI design.
